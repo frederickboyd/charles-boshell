@@ -185,6 +185,6 @@ export const worked_3 = {
 // inital step
 export const motionStep = {
   initial: "hidden",
-  whileInView: "visible",
+  animate: "visible",
   viewport: { once: true },
 };
