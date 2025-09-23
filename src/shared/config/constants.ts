@@ -74,8 +74,8 @@ export const projects: ProjectTypes[] = [
     description:
       "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section",
     tech: ["Next js 13", "Tailwind CSS", "Express js", "MongoDB"],
-    code: "https://github.com/charlesboshell/Charles-Sin-Portfolio",
-    live: "https://charles-sin.vercel.app/",
+    code: "https://github.com/charlesboshell/charlesboshell",
+    live: "https://charles-boshell.vercel.app/",
     thumnail: "portfolio-v2.jpg",
     featured: true,
   },
