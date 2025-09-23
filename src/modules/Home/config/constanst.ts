@@ -1,0 +1,18 @@
+export const skills = [
+  "React.js",
+  "Next.js",
+  "Node.js",
+  "Express.js",
+  "TypeScript",
+  "JavaScript (ES6+)",
+  "Tailwind CSS",
+  "Material UI",
+  "MongoDB",
+  "SQL Server",
+  "Docker",
+  "Kubernetes (K8s)",
+  "Terraform",
+  "AWS Lambda",
+  "Azure Functions",
+  "CI/CD Pipelines",
+];
