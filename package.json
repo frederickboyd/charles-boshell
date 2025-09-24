@@ -2,8 +2,8 @@
   "name": "dev-portfolio",
   "version": "1.0.0",
   "private": true,
-  "repository": "git@github.com:CharlesSin/Charles-Sin-Portfolio.git",
-  "author": "Charles Boshell <charlessin1993@gmail.com>",
+  "repository": "git@github.com:charlesboshell/charles-boshell.git",
+  "author": "Charles Boshell <charlessboshell@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

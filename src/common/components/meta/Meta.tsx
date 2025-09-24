@@ -4,9 +4,9 @@ const Meta = () => {
       <link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
       <link rel="apple-touch-icon" sizes="32x32" href="/favicon32.ico"></link>
       <link rel="apple-touch-icon" sizes="96x96" href="/favicon96.ico"></link>
-      <link rel="canonical" href="https://charles-sin.vercel.app"></link>
-      <link rel="pingback" href="https://charles-sin.vercel.app"></link>
-      <link rel="alternate" href="https://charles-sin.vercel.app" hrefLang="en-us"></link>
+      <link rel="canonical" href="https://charles-boshell.vercel.app"></link>
+      <link rel="pingback" href="https://charles-boshell.vercel.app"></link>
+      <link rel="alternate" href="https://charles-boshell.vercel.app" hrefLang="en-us"></link>
 
       <title lang="en"> Charles Boshell.C.Y : Portfolio </title>
       
@@ -38,16 +38,16 @@ production-ready software"
         property="og:keywords"
         content="Web Development Company, Web Development Services, Website Development Company, Website Development Taiwan, Web Development Taiwan, Company, Services, Taiwan"
       />
-      <meta property="og:url" content="https://charles-sin.vercel.app" />
-      <meta property="og:image" content="https://charles-sin.vercel.app/images/cover.jpg" />
+      <meta property="og:url" content="https://charles-boshell.vercel.app" />
+      <meta property="og:image" content="https://charles-boshell.vercel.app/images/cover.jpg" />
       <meta property="og:type" content="website" />
 
       <meta name="google-site-verification" content="eP82dEE--Mtf-ypVN9QO-B9kd-C5uLVNT_Ce_bdha24" />
       <meta property="article:publisher" content="Charles" />
 
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="@Charles_Sin" />
-      <meta name="twitter:creator" content="@Charles_Sin" />
+      <meta name="twitter:site" content="@Charles_boshell" />
+      <meta name="twitter:creator" content="@Charles_boshell" />
       <meta
         name="twitter:description"
         content="Full Stack Developer with over 20 years of experience designing, developing, and deploying scalable applications across
@@ -56,7 +56,7 @@ technologies. Skilled at building high-performance, cloud-native systems and del
 environments. Adept at mentoring teams, optimizing architectures, and collaborating cross-functionally to deliver
 production-ready software"
       />
-      <meta name="twitter:image" content="https://charles-sin.vercel.app/images/cover.jpg" />
+      <meta name="twitter:image" content="https://charles-boshell.vercel.app/images/cover.jpg" />
     </>
   );
 };

@@ -8,13 +8,9 @@ production-ready software
 
 ## Demo
 
-[Charles Portfolio](https://charles-sin.vercel.app/)
+[Charles Portfolio](https://charles-boshell.vercel.app/)
 
-[查尔斯个人作品集](https://chaersi.vercel.app/)
 
-## Screenshot
-
-![alt cover](https://github.com/CharlesSin/Charles-Sin-Portfolio/blob/master/public/images/cover.jpg)
 
 ## Introduction
 
